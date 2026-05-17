@@ -124,6 +124,12 @@ class Ayuk:
 <br/>
 
 ### 🔍 AI Log Analyzer
+
+## 🎬 Watch the Demo
+
+[![AI Log Analyzer Demo](https://img.youtube.com/vi/EHXsmp-HYQU/maxresdefault.jpg)](https://www.youtube.com/watch?v=EHXsmp-HYQU)
+
+> 📺 Click the image above to watch the full demo on YouTube
 > **The problem:** Developers waste hours reading long, confusing log files when software crashes.
 > **The solution:** Upload any log file → AI reads it → Get root cause, errors, and fixes in 30 seconds.
 

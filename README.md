@@ -114,9 +114,16 @@ class Ayuk:
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/IFVERSE/ai-log-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IFVERSE&repo=ai-log-analyzer&theme=tokyonight&hide_border=true&border_radius=15&description_lines_count=3" />
-  </a>
+
+### 🤖 Featured Project
+
+[![ai-log-analyzer](https://img.shields.io/badge/IFVERSE-ai--log--analyzer-7F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IFVERSE/ai-log-analyzer)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
+![AI](https://img.shields.io/badge/AI%20Powered-LLMs-9D4EDD?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-1D9E75?style=flat-square)
+
+> AI-powered log analyzer — parses, classifies & surfaces anomalies using LLMs.
+
 </div>
 
 <br/>

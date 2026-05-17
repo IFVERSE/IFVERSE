@@ -127,7 +127,7 @@ class Ayuk:
 
 ## 🎬 Watch the Demo
 
-[![AI Log Analyzer Demo](https://img.youtube.com/vi/EHXsmp-HYQU/maxresdefault.jpg)](https://www.youtube.com/watch?v=PntYGfICz-g)
+[![AI Log Analyzer Demo](https://img.youtube.com/vi/PntYGfICz-g/maxresdefault.jpg)](https://www.youtube.com/watch?v=PntYGfICz-g)
 
 > 📺 Click the image above to watch the full demo on YouTube
 > **The problem:** Developers waste hours reading long, confusing log files when software crashes.

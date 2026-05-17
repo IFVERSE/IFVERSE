@@ -115,16 +115,20 @@ class Ayuk:
 
 <div align="center">
 
-### 🤖 Featured Project
+<a href="https://github.com/IFVERSE/ai-log-analyzer">
+    ### `IFVERSE / ai-log-analyzer`
 
-[![ai-log-analyzer](https://img.shields.io/badge/IFVERSE-ai--log--analyzer-7F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IFVERSE/ai-log-analyzer)
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
-![AI](https://img.shields.io/badge/AI%20Powered-LLMs-9D4EDD?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-1D9E75?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-ai--log--analyzer-7F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IFVERSE/ai-log-analyzer)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/AI-LLMs-9D4EDD?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-active-1D9E75?style=flat-square&logo=fastapi&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
-> AI-powered log analyzer — parses, classifies & surfaces anomalies using LLMs.
+> *Parses · Classifies · Surfaces anomalies — powered by LLMs*
 
+</a>
 </div>
+
 <br/>
 
 ### 🔍 AI Log Analyzer

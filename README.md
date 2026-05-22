@@ -1,273 +1,277 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:6D28D9,70:A855F7,100:EC4899&text=AYUK%20NICHOLAS&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20AI%20Engineer%20•%20Founder%20•%20STEM%20Innovator&descAlignY=58&descSize=18"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=🚀+Building+AI+Products+for+Africa;⚡+FastAPI+•+React+•+Groq+•+LLaMA;🌍+Founder+of+NexuSTEM+Initiative;💡+Turning+Ideas+Into+Real+Products;🔥+Shipping+Fast+%7C+Learning+Faster;🤖+AI+Engineer+Focused+on+Real+Impact"/>
-
-<br/>
-
-<a href="https://github.com/IFVERSE">
-    <img src="https://img.shields.io/github/followers/IFVERSE?style=for-the-badge&color=A855F7&labelColor=111827&logo=github&label=FOLLOWERS"/>
-</a>
-
-<a href="https://github.com/IFVERSE">
-    <img src="https://komarev.com/ghpvc/?username=IFVERSE&style=for-the-badge&color=7C3AED&labelColor=111827"/>
-</a>
-
-<a href="mailto:nicholasayuk1@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-ME-EC4899?style=for-the-badge&labelColor=111827&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🧠 About Me
-
-<img align="right" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-```python
-class AyukNicholas:
-
-    def __init__(self):
-        self.location = "Abuja, Nigeria 🇳🇬"
-        self.role = "Full-Stack AI Engineer"
-        self.focus = [
-            "AI Products",
-            "Developer Tools",
-            "STEM Innovation",
-            "Career Technology"
-        ]
-
-        self.current_projects = {
-            "AI Career Coach Africa": "AI-powered career advisor",
-            "AI Log Analyzer": "Root-cause analysis using LLMs",
-            "NexuSTEM": "STEM education for African students"
-        }
-
-        self.tech_stack = {
-            "backend": ["Python", "FastAPI", "Flask"],
-            "frontend": ["React", "Vite", "TailwindCSS"],
-            "ai": ["Groq", "LLaMA 3", "LLM APIs"],
-            "database": ["PostgreSQL", "SQLite"],
-            "tools": ["Docker", "Git", "Render", "Vercel"]
-        }
-
-        self.mission = "Build impactful AI systems for Africa"
-
-    def build(self):
-        return "Turning ideas into products 🚀"
-```
-
-<br clear="right"/>
-
----
-
-# ⚡ Tech Arsenal
-
-<div align="center">
-
-## 🖥️ Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css"/>
-
----
-
-## ⚙️ Backend + AI
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,sqlite,docker"/>
-
-<p>
-<img src="https://img.shields.io/badge/Groq-AI-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLaMA_3-AI-blue?style=for-the-badge"/>
-</p>
-
----
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-
----
-
-## 🔧 Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
----
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🌍 AI Career Coach Africa
 
-<div align="center">
+<a href="https://github.com/IFVERSE/ai-career-coach">
+<img src="https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius:16px;" />
+</a>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=IFVERSE&repo=ai-career-coach&theme=tokyonight&hide_border=true&bg_color=0F172A"/>
+### ⚡ AI-Powered Career Platform for Africans
 
-</div>
-
-### ✨ Features
-
-- 📄 AI CV Reviewer
-- 🎤 AI Interview Coach
-- 💰 Salary Intelligence
-- 🗺️ Career Roadmaps
-- 💼 Live Job Matching
-- 🔗 LinkedIn Optimizer
-- 🎯 AI Job Fit Scoring
-- 💬 AI Career Chat
-
-### ⚙️ Stack
-
-```txt
-React • FastAPI • Groq • LLaMA 3 • SQLite • TailwindCSS
-```
-
-### 🔗 Links
-
-- 🚀 GitHub: https://github.com/IFVERSE/ai-career-coach
-- 🎥 Demo: https://www.youtube.com/watch?v=uHeGzcgr7Hg
+A full-stack AI platform helping professionals:
+- optimize CVs
+- prepare for interviews
+- analyze salaries
+- generate cover letters
+- discover skill gaps
+- get AI career guidance
 
 ---
 
-## 🔍 AI Log Analyzer
+### 🛠️ Stack
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=IFVERSE&repo=ai-log-analyzer&theme=tokyonight&hide_border=true&bg_color=0F172A"/>
-
-</div>
-
-### ✨ Features
-
-- 🤖 AI Log Understanding
-- 🔴 Error Detection
-- 🔍 Root Cause Discovery
-- ✅ AI Fix Recommendations
-- 💬 Log Chat Assistant
-- 📋 Saved Analysis History
-
-### ⚙️ Stack
-
-```txt
-React • FastAPI • Groq • LLaMA 3 • SQLite
+```yaml
+Frontend: React + TailwindCSS
+Backend: FastAPI + Python
+AI: Groq + LLaMA 3
+Database: SQLite
 ```
 
 ### 🔗 Links
 
-- 🚀 GitHub: https://github.com/IFVERSE/ai-log-analyzer
-- 🎥 Demo: https://www.youtube.com/watch?v=PntYGfICz-g
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/IFVERSE/ai-career-coach)
+
+[![Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=uHeGzcgr7Hg)
+
+</td>
+
+<td width="50%">
+
+## 🔍 AI Log Analyzer
+
+<a href="https://github.com/IFVERSE/ai-log-analyzer">
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius:16px;" />
+</a>
+
+### 🤖 Intelligent AI Debugging Assistant
+
+Upload any `.log` file and instantly get:
+- root-cause detection
+- AI-powered fixes
+- issue classification
+- debugging recommendations
+- follow-up AI chat support
+
+---
+
+### 🛠️ Stack
+
+```yaml
+Frontend: React + TailwindCSS
+Backend: FastAPI
+AI: Groq + LLaMA 3
+Database: SQLite
+```
+
+### 🔗 Links
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/IFVERSE/ai-log-analyzer)
+
+[![Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=PntYGfICz-g)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<div align="center">
+
+# 🌍 AI Career Coach Africa
+
+<a href="https://github.com/IFVERSE/ai-career-coach">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,25:312E81,50:7C3AED,75:A855F7,100:EC4899&height=220&section=header&text=AI%20Career%20Coach&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI-Powered%20Career%20Platform%20for%20African%20Professionals&descSize=16&descAlignY=68"/>
+
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-Groq_LLaMA-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge"/>
+
+</div>
+
+---
+
+### ✨ Core Features
+
+```diff
++ AI CV Reviewer
++ Interview Coach
++ Salary Intelligence
++ Career Roadmaps
++ Cover Letter Generator
++ LinkedIn Optimizer
++ AI Career Chat
++ Smart Job Matching
+```
+
+---
+
+### ⚡ Tech Stack
+
+```yaml
+Frontend:
+  - React
+  - TailwindCSS
+  - Vite
+
+Backend:
+  - FastAPI
+  - Python
+
+AI:
+  - Groq
+  - LLaMA 3
+
+Database:
+  - SQLite
+```
+
+---
+
+<div align="center">
+
+<a href="https://github.com/IFVERSE/ai-career-coach">
+<img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/watch?v=uHeGzcgr7Hg">
+<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+# 🔍 AI Log Analyzer
+
+<a href="https://github.com/IFVERSE/ai-log-analyzer">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,20:1E293B,45:0F766E,70:0891B2,100:06B6D4&height=220&section=header&text=AI%20Log%20Analyzer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Debugging%20%7C%20Root-Cause%20Detection%20%7C%20Smart%20Analysis&descSize=16&descAlignY=68"/>
+
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-Error_Detection-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge"/>
+
+</div>
+
+---
+
+### ✨ Core Features
+
+```diff
++ AI Log Analysis
++ Root Cause Detection
++ Error Classification
++ AI Recommendations
++ Smart Debugging
++ Follow-up AI Chat
++ Saved Analysis History
+```
+
+---
+
+### ⚡ Tech Stack
+
+```yaml
+Frontend:
+  - React
+  - TailwindCSS
+
+Backend:
+  - FastAPI
+  - Python
+
+AI:
+  - Groq
+  - LLaMA 3
+
+Database:
+  - SQLite
+```
+
+---
+
+<div align="center">
+
+<a href="https://github.com/IFVERSE/ai-log-analyzer">
+<img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/watch?v=PntYGfICz-g">
+<img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 🏫 NexuSTEM Initiative
 
-> Bringing practical STEM education, robotics, AI, coding, and innovation to African students.
-
-### 🎯 Vision
-
-Empower the next generation of African innovators through:
-
-- 💻 Coding Education
-- 🤖 Robotics
-- ⚡ Electronics
-- 🧠 Artificial Intelligence
-- 🌍 Real-world Problem Solving
-
-### 🚀 Pilot Launch
-
-```txt
-August 2026 — Nigeria 🇳🇬
-```
-
----
-
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IFVERSE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=A855F7&icon_color=EC4899"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFVERSE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=A855F7"/>
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=IFVERSE&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=EC4899"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,30:7C3AED,60:A855F7,100:EC4899&text=NexuSTEM%20Initiative&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Empowering%20African%20Students%20Through%20STEM%20%7C%20AI%20%7C%20Robotics%20%7C%20Innovation&descSize=18&descAlignY=66"/>
 
 </div>
 
----
-
-# 🏆 Achievements
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IFVERSE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+| 🚀 Focus Area | ⚡ Mission |
+|---|---|
+| Coding & AI | Build future African innovators |
+| Robotics | Hands-on STEM learning |
+| Electronics | Practical engineering skills |
+| Innovation | Solve real-world problems |
 
 </div>
 
----
-
-# 📈 Contribution Graph
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IFVERSE&bg_color=0F172A&color=A855F7&line=EC4899&point=FFFFFF&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ayuk-nicholas">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/africandevplug">
-<img src="https://img.shields.io/badge/Twitter(X)-111827?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:nicholasayuk1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/IFVERSE">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@IFVERSE">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💭 Philosophy
-
-<div align="center">
-
-### “Africa is not behind — we are building the future in real time.”
-
-I believe AI should solve real problems, empower people, and create opportunities for African talent globally.
-
-Every product I build is focused on:
-⚡ Real impact  
-🚀 Fast execution  
-🌍 Global relevance  
-🧠 Continuous innovation
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:EC4899,50:A855F7,100:0F172A&text=Open%20to%20Remote%20Roles%20%7C%20Global%20Collaborations&fontColor=ffffff&fontSize=22"/>
+<img src="https://img.shields.io/badge/Pilot_Launch-August_2026-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Nigeria-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mission-STEM_For_Africa-EC4899?style=for-the-badge"/>
 
 </div>

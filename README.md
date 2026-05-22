@@ -35,19 +35,17 @@
 
 <div align="center">
 
-```txt
-┌─────────────────────────────────────────────────────────────┐
-                                                            
-NAME        : Ayuk Nicholas                               
-ROLE        : Full-Stack AI Engineer
-LOCATION    : Abuja, Nigeria 🇳🇬
-                                                                     
-SPECIALTY   : AI Products + Developer Systems             
-MISSION     : Empower African talent through technology   
-                                                            
-└─────────────────────────────────────────────────────────────┘
-```
-
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   👤 NAME        │ Ayuk Nicholas                             │
+│   💼 ROLE        │ Full-Stack AI Engineer                    │
+│   📍 LOCATION    │ Abuja, Nigeria 🇳🇬                        │
+│                                                              │
+│   ⚡ SPECIALTY   │ AI Products • Developer Systems           │
+│   🚀 FOCUS       │ AI • Full-Stack Engineering • Innovation  │
+│   🌍 MISSION     │ Empower African talent through technology │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 </div>
 
 ---

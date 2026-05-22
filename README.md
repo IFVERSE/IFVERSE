@@ -207,15 +207,18 @@ class Ayuk:
 
 ### 🏫 Project 3 — NexuSTEM Initiative
 
-<table>
-<tr>
-<td>
+---
 
-> *Bringing hands-on STEM education to the next generation of Nigerian students*
+### ₿ [NEXUS TRADE AI](https://github.com/IFVERSE/nexus-trade-ai)
+> 📺 [Watch Live Demo](https://youtube.com/watch?v=k5pmdMPSE_g)
 
-</td>
-</tr>
-</table>
+The world's most intelligent crypto trading platform — AI rug pull detection, wallet intelligence, sentiment oracle, psychology coaching, DeFi yields, and live job board in one stunning dark/light UI.
+
+**Stack:** `React` `FastAPI` `Groq LLaMA 3.3` `DexScreener` `CoinGecko` `DefiLlama` `SQLite`
+
+![Features](https://img.shields.io/badge/Features-11-6C63FF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-00FF88?style=flat-square)
+![Market](https://img.shields.io/badge/Crypto-Intelligence-FFD700?style=flat-square)
 
 ---
 

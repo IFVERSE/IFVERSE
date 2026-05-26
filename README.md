@@ -13,7 +13,6 @@
 </a>  <a href="mailto:nicholasayuk1@gmail.com">  
 <img src="https://img.shields.io/badge/EMAIL_ME-EC4899?style=for-the-badge&logo=gmail&labelColor=000000"/>  
 </a>  </div>  
----
 
 🚀 CURRENTLY BUILDING
 
@@ -24,7 +23,6 @@
 - Intelligent Automation Products  
   
   
----  
   
 🧬 SYSTEM PROFILE  
   
@@ -42,19 +40,16 @@
 └──────────────────────────────────────────────────────────────┘  
   
 </div>  
----  
   
 ⚙️ ENGINEERING STACK  
   
 🎨 Frontend  
   
 <div align="center"><img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite,nextjs"/></div>  
----  
   
 🧠 Backend  
   
 <div align="center"><img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs"/></div>  
----  
   
 🤖 AI & MACHINE LEARNING  
   
@@ -62,17 +57,14 @@
 <img src="https://img.shields.io/badge/LLaMA_3-7C3AED?style=for-the-badge"/>  
 <img src="https://img.shields.io/badge/Prompt_Engineering-00F5FF?style=for-the-badge"/>  
 <img src="https://img.shields.io/badge/AI_Automation-EC4899?style=for-the-badge"/></div>  
----  
   
 🗄️ DATABASES  
   
-<div align="center"><img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql"/></div>  
----  
+<div align="center"><img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql"/></div>   
   
 ☁️ DEVOPS & TOOLS  
   
-<div align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,vercel"/></div>  
----  
+<div align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,vercel"/></div>   
   
 🌍 FEATURED PRODUCTS  
   
@@ -81,9 +73,6 @@
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:7C3AED,30:A855F7,60:EC4899,100:F472B6&text=KIDGENIUS%20AI&fontColor=ffffff&fontSize=42&animation=fadeIn"/></div>🚀 AI-Powered Interactive Learning Universe  
   
 Interactive AI-powered education platform designed to make learning immersive, visual, voice-driven, and personalized for children.  
-  
-  
----  
   
 ✨ FEATURES  
   
@@ -98,9 +87,6 @@ Interactive AI-powered education platform designed to make learning immersive, v
 - Parent Dashboard  
 - Quiz & Challenge Engine  
   
-  
----  
-  
 📊 PRODUCT STATS  
   
 + Real-Time Voice AI  
@@ -109,31 +95,21 @@ Interactive AI-powered education platform designed to make learning immersive, v
 + Gamified Student Experience  
 + AI-Powered Storytelling  
   
-  
----  
-  
 ⚙️ TECH STACK  
   
 React • FastAPI • Groq • LLaMA 3.3 • SQLite • Web Speech API  
-  
-  
----  
   
 <div align="center"><a href="https://github.com/IFVERSE/kidgenius-ai">  
 <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>  
 </a><a href="https://youtube.com/watch?v=O1fbhOQ9VF8">  
 <img src="https://img.shields.io/badge/LIVE_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>  
-</a></div>  
----  
+</a></div> 
   
 🌍 AI CAREER COACH  
   
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:00F5FF,25:2563EB,50:7C3AED,75:A855F7,100:EC4899&text=AI%20CAREER%20COACH&fontColor=ffffff&fontSize=42&animation=fadeIn"/></div>🚀 AI Career Intelligence Platform  
   
 AI-powered assistant helping developers optimize resumes, prepare for interviews, and discover better opportunities globally.  
-  
-  
----  
   
 ✨ FEATURES  
   
@@ -145,31 +121,21 @@ AI-powered assistant helping developers optimize resumes, prepare for interviews
 - LinkedIn Optimization  
 - Cover Letter Generator  
   
-  
----  
-  
 ⚙️ STACK  
   
 React • FastAPI • Groq • SQLite • Python  
-  
-  
----  
   
 <div align="center"><a href="https://github.com/IFVERSE/ai-career-coach">  
 <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>  
 </a><a href="https://www.youtube.com/watch?v=uHeGzcgr7Hg">  
 <img src="https://img.shields.io/badge/LIVE_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>  
 </a></div>  
----  
   
 🔍 AI LOG ANALYZER  
   
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:06B6D4,25:0891B2,50:0F766E,75:111827,100:020617&text=AI%20LOG%20ANALYZER&fontColor=ffffff&fontSize=42&animation=fadeIn"/></div>🚀 AI-Powered Debugging Assistant  
   
 Intelligent developer platform for analyzing logs, identifying issues, and generating smart debugging recommendations.  
-  
-  
----  
   
 ✨ FEATURES  
   
@@ -180,31 +146,21 @@ Intelligent developer platform for analyzing logs, identifying issues, and gener
 - DevOps Monitoring  
 - AI Debug Assistant  
   
-  
----  
-  
 ⚙️ STACK  
   
 React • FastAPI • Python • Groq • SQLite  
-  
-  
----  
   
 <div align="center"><a href="https://github.com/IFVERSE/ai-log-analyzer">  
 <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>  
 </a><a href="https://www.youtube.com/watch?v=PntYGfICz-g">  
 <img src="https://img.shields.io/badge/LIVE_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>  
 </a></div>  
----  
   
 ₿ NEXUS TRADE AI  
   
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,20:111827,45:065F46,70:10B981,100:FACC15&text=NEXUS%20TRADE%20AI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI-Powered%20Crypto%20Intelligence%20System&descAlignY=70&descSize=18"/></div>🚀 Smart Crypto Intelligence Platform  
   
 AI-driven crypto analysis platform focused on market intelligence, risk detection, and smarter trading decisions.  
-  
-  
----  
   
 ⚡ SYSTEM FEATURES  
   
@@ -216,27 +172,19 @@ AI-driven crypto analysis platform focused on market intelligence, risk detectio
 + Market Analysis AI  
 + DeFi Yield Tracking  
   
-  
----  
-  
 ⚙️ TECH STACK  
   
 React • FastAPI • Groq • DexScreener • CoinGecko  
-  
-  
----  
   
 <div align="center"><a href="https://github.com/IFVERSE/nexus-trade-ai">  
 <img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white"/>  
 </a><a href="https://youtube.com/watch?v=k5pmdMPSE_g">  
 <img src="https://img.shields.io/badge/LIVE_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>  
 </a></div>  
----  
-  
+
 🌌 CURRENT MISSION  
   
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:020617,20:111827,40:1E1B4B,60:312E81,80:7C3AED,100:EC4899&text=NEXUSTEM%20INITIATIVE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Building%20Africa's%20Next%20Generation%20of%20Innovators&descAlignY=68&descSize=18"/></div>  
----  
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:020617,20:111827,40:1E1B4B,60:312E81,80:7C3AED,100:EC4899&text=NEXUSTEM%20INITIATIVE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Building%20Africa's%20Next%20Generation%20of%20Innovators&descAlignY=68&descSize=18"/></div>    
   
 <div align="center">🚀 AREA	💡 MISSION  
   
@@ -248,8 +196,7 @@ Innovation	Solve African problems
   
   
 </div>  
----  
-  
+
 🧠 ENGINEERING PHILOSOPHY  
   
 • Build fast  
@@ -258,9 +205,6 @@ Innovation	Solve African problems
 • Great products solve emotional problems  
 • Simplicity beats complexity  
 • Innovation must create impact  
-  
-  
----  
   
 📡 GITHUB INTELLIGENCE  
   
@@ -271,12 +215,10 @@ Innovation	Solve African problems
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=IFVERSE&bg_color=000000&color=00F5FF&line=A855F7&point=EC4899&hide_border=true"/><br/><br/>  
   
 <img width="85%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/></div>  
----  
-  
+
 🏆 ACHIEVEMENTS  
   
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=IFVERSE&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/></div>  
----  
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=IFVERSE&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/></div>   
   
 🌐 CONNECT WITH ME  
   
@@ -291,7 +233,6 @@ Innovation	Solve African problems
 </a><a href="https://www.youtube.com/@IFVERSE">  
 <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>  
 </a></div>  
----  
   
 <div align="center">💭 FINAL TRANSMISSION  
   

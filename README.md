@@ -116,6 +116,29 @@ React • FastAPI • Groq • LLaMA 3 • SQLite
 
 <td width="50%">
 
+---
+
+### 🧠 [KidGenius AI](https://github.com/IFVERSE/kidgenius-ai)
+> 📺 [Watch Demo](https://youtube.com/watch?v=O1fbhOQ9VF8)
+
+AI-powered learning universe for children ages 7-16. Features 4 AI tutors with voice input/output, multiple English accents, visual teaching diagrams, gamified XP system, AI story maker, coding lab, and parent dashboard.
+
+**Stack:** `React` `FastAPI` `Groq LLaMA 3.3` `Web Speech API` `SQLite` `Python`
+
+
+
+![Age](https://img.shields.io/badge/Ages-7--16-7C3AED?style=flat-square)
+
+
+
+
+![Features](https://img.shields.io/badge/Features-16-EC4899?style=flat-square)
+
+
+
+
+![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
+
 # 🔍 AI LOG ANALYZER
 
 <div align="center">

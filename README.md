@@ -1,272 +1,542 @@
-<!--
-GITHUB PROFILE README — copy this entire file into IFVERSE/IFVERSE/README.md.
-This file is independent of the PetSquare application. No extra assets or packages required.
+<div align="center">
 
-Content notes:
-- Dercy Tech, PetSquare, and IRIS stacks and repository URLs were checked locally.
-- Public profile and AI project READMEs were reviewed alongside your supplied profile.
-- Dercy Tech and PetSquare deployment URLs come from public GitHub repository metadata;
-  deployment functionality has not been tested. IRIS's URL comes from its local git remote.
-- NEXUSTEM is described as a beta community, as requested. Add its public join
-  link and platform/stack once confirmed; the current CTA opens an email.
-- Remote banners/icons require their image services to be available.
-- GitHub strips scripts and inline CSS. Motion here comes from external SVG images.
--->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER BANNER                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050B1A,18:0D0733,38:1E1057,58:3730A3,78:6D28D9,92:7C3AED,100:06B6D4&text=AYUK%20NICHOLAS&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Product%20Builder%20%7C%20Founder%2C%20NEXUSTEM&descSize=16&descAlignY=60&animation=fadeIn" alt="Ayuk Nicholas — AI Engineer and Full-Stack Product Builder" />
+
+<br/>
+
+<!-- ANIMATED TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=⚡+Full-Stack+Developer+%26+AI+Engineer;🚀+React+·+Next.js+·+Python+·+FastAPI;🧠+Building+Intelligent+Products+with+LLMs;🌍+Engineering+from+Africa+for+the+World;🛠️+Founder+—+NEXUSTEM+Initiative" alt="Animated skill and focus areas" />
+
+<br/>
+
+<!-- STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/📍_Based_In-Abuja%2C_Nigeria-5B21B6?style=for-the-badge&labelColor=050B1A" alt="Based in Abuja, Nigeria" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/💼_Open_To-Remote_Opportunities-0891B2?style=for-the-badge&labelColor=050B1A" alt="Open to remote opportunities" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔭_Focus-AI_%26_Product_Engineering-7C3AED?style=for-the-badge&labelColor=050B1A" alt="Focus on AI and product engineering" />
+</p>
+
+<!-- SOCIAL LINKS -->
+<p>
+  <a href="mailto:nicholasayuk1@gmail.com">
+    <img src="https://img.shields.io/badge/✉_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ayuk Nicholas" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ayuk-nicholas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/africandevplug">
+    <img src="https://img.shields.io/badge/X_@africandevplug-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @africandevplug on X" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IFVERSE">
+    <img src="https://img.shields.io/badge/YouTube_@IFVERSE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch project demos on YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/IFVERSE?tab=repositories">
+    <img src="https://img.shields.io/badge/All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=IFVERSE&label=Profile+Views&color=7C3AED&style=for-the-badge&abbreviated=true" alt="Profile view count" />
+
+</div>
+
+<br/>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **software and AI engineer** building full-stack products that people can actually use — AI tutoring platforms, career coaching tools, gadget commerce stores, pet-care discovery services, and polished company websites.
+
+My work spans **React / Next.js**, **Python / FastAPI**, **Supabase**, and **LLM integrations**. I cover every layer: responsive UI, backend architecture, authentication, external API pipelines, and automated AI workflows. I care about **practical utility**, **clear interfaces**, and **systems that hold up at scale**.
+
+Based in **Abuja, Nigeria** — and founder of **NEXUSTEM**, connecting Africa's next generation with AI, coding, robotics, and hands-on STEM learning.
+
+<details>
+<summary><strong>🎯 What I bring to a team</strong></summary>
+<br/>
+
+| Capability | Examples in Practice |
+|:---|:---|
+| 🏗️ **End-to-end product engineering** | Storefronts, dashboards, vendor workflows, admin systems, and database integration |
+| 🧠 **Applied AI & LLM integration** | Tutoring agents, CV feedback, log diagnostics, market insights, conversational UX |
+| 🎨 **Interface craft** | Responsive design systems, motion, theme switching, and accessible interaction patterns |
+| 🔌 **API & data pipelines** | Supabase, Groq, discovery feeds, contact flows, external APIs, and webhooks |
+| ✅ **Quality engineering** | Playwright tests, TypeScript checks, ESLint, Zod validation, and Git workflows |
+
+</details>
+
+<br/>
+
+### 📋 Project Directory
+
+| Project | What It Does | Links |
+|:---|:---|:---:|
+| 🛒 **Dercy Tech** | Gadget discovery, expert consultation, and WhatsApp ordering | [🌐 Live](https://dercy-tech.vercel.app/) · [📂 Code](https://github.com/IFVERSE/dercy-tech) |
+| 🐾 **PetSquare** | Pet-care discovery and deals for European markets | [🌐 Live](https://petsquare-mu.vercel.app/en) · [📂 Code](https://github.com/IFVERSE/petsquare) |
+| ✨ **IRIS Tech & Media** | Company website, motion, themes, and inquiry flows | [🌐 Live](https://iristechandmedia.com/) |
+| 🧠 **KidGenius AI** | AI tutoring for children ages 7–16 | [📂 Code](https://github.com/IFVERSE/kidgenius-ai) · [🎬 Demo](https://youtube.com/watch?v=O1fbhOQ9VF8) |
+| 🧭 **AI Career Coach** | Career tools designed for African professionals | [📂 Code](https://github.com/IFVERSE/ai-career-coach) · [🎬 Demo](https://www.youtube.com/watch?v=uHeGzcgr7Hg) |
+| 🔎 **AI Log Analyzer** | Log uploads, structured AI analysis, follow-up chat | [📂 Code](https://github.com/IFVERSE/ai-log-analyzer) · [🎬 Demo](https://www.youtube.com/watch?v=PntYGfICz-g) |
+| 📊 **Nexus Trade AI** | Crypto market research, journaling, and AI insights | [📂 Code](https://github.com/IFVERSE/nexus-trade-ai) · [🎬 Demo](https://youtube.com/watch?v=k5pmdMPSE_g) |
+| 🌱 **NEXUSTEM** | Africa's STEM initiative and beta community | [📧 Join](mailto:nicholasayuk1@gmail.com?subject=NEXUSTEM%20Beta%20Community) |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:0B1020,45:312E81,80:7C3AED,100:22D3EE&amp;text=AYUK%20NICHOLAS&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20ENGINEER%20%2F%20FULL-STACK%20PRODUCT%20BUILDER&amp;descSize=15&amp;descAlignY=59&amp;animation=fadeIn" alt="Ayuk Nicholas — AI engineer and full-stack product builder" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=IFVERSE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E2E8F0&count_private=true&include_all_commits=true" alt="GitHub statistics" />
+&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IFVERSE&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub contribution streak" />
 
-# Ayuk Nicholas
+<br/><br/>
 
-**Software & AI Engineer · Full-Stack Product Builder · Founder, NEXUSTEM Initiative**
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFVERSE&layout=donut&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8" alt="Most used languages" />
 
-I build AI applications, commerce platforms, and thoughtful web experiences.<br />
-Based in Abuja, Nigeria — building for practical needs and African innovation.
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1400&amp;color=7C8CFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=Building+products+that+people+can+use.;Connecting+design%2C+engineering%2C+and+AI.;Growing+the+NEXUSTEM+beta+community.;Engineering+from+Africa%2C+for+the+world." alt="Building useful products, connecting design and AI, and growing NEXUSTEM from Africa" />
+<!-- TROPHIES -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=IFVERSE&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub profile trophies" />
 
-<p>
-  <img src="https://img.shields.io/badge/Abuja-Nigeria-312E81?style=flat-square" alt="Based in Abuja, Nigeria" />
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Web_Products-7C3AED?style=flat-square" alt="Focus: AI and web products" />
-  <img src="https://img.shields.io/badge/Open_to-Remote_Opportunities-0F766E?style=flat-square" alt="Open to remote opportunities" />
-</p>
+<br/>
 
-<p>
-  <a href="mailto:nicholasayuk1@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me to discuss a project" /></a>
-  <a href="https://linkedin.com/in/ayuk-nicholas"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://www.youtube.com/@IFVERSE"><img src="https://img.shields.io/badge/PROJECT_DEMOS-18181B?style=for-the-badge&amp;logo=youtube&amp;logoColor=FF4545" alt="Watch project demos on YouTube" /></a>
-</p>
-
-<a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-<a href="#ai-projects">AI projects</a> &nbsp; / &nbsp;
-<a href="#nexustem">NEXUSTEM</a> &nbsp; / &nbsp;
-<a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-<a href="#connect">Connect</a>
+<!-- ACTIVITY GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IFVERSE&bg_color=0D1117&color=A78BFA&line=6D28D9&point=06B6D4&area=true&area_color=1E1057&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## About me
+## 🏗️ Selected Work
 
-I'm a **software and AI engineer** working across **React / Next.js**, **Python / FastAPI**, and **LLM integrations**. I build the interface and the systems behind it: application routes, data storage, authentication, external APIs, and AI-assisted workflows.
+> Three live productions — commerce, discovery, and digital brand.
 
-My portfolio spans learning tools for children, career support for African professionals, developer tooling, gadget commerce, pet-care discovery, and company websites. Across those projects, I care about clear interactions, responsive design, and making complex capabilities easier to use.
+<br/>
 
-Alongside engineering, I founded the **NEXUSTEM Initiative** and have started its **beta community**, connecting my interest in AI, coding, robotics, and practical STEM education.
+<!-- ═══ DERCY TECH ═══════════════════════════════════════════════ -->
 
-### What I bring to a team
+<table width="100%">
+<tr><td>
 
-| Capability | Examples in my work |
-| --- | --- |
-| **End-to-end product engineering** | Storefronts, user dashboards, vendor workflows, administration, and database integration |
-| **Applied AI** | Conversational tutoring, CV feedback, structured log analysis, and AI-assisted research |
-| **Interface craft** | Responsive layouts, theme systems, motion, and accessible interaction patterns |
-| **API & data integration** | Supabase, Groq, product discovery pipelines, contact services, and external data APIs |
+### 🛒 Dercy Tech — Gadget Commerce & Consultation
 
-### Portfolio directory
+<a href="https://dercy-tech.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_LIVE_SITE-dercy--tech.vercel.app-6D28D9?style=for-the-badge&labelColor=0D1117" alt="Dercy Tech live site" />
+</a>
+<a href="https://github.com/IFVERSE/dercy-tech">
+  <img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dercy Tech source code" />
+</a>
 
-| Project | Focus | Explore |
-| --- | --- | --- |
-| **Dercy Tech** | Gadget discovery, consultation, and WhatsApp ordering | [Website](https://dercy-tech.vercel.app) · [Code](https://github.com/IFVERSE/dercy-tech) |
-| **PetSquare** | Pet-care discovery, deals, and vendor tools | [Website](https://petsquare-mu.vercel.app) · [Code](https://github.com/IFVERSE/petsquare) |
-| **IRIS Tech & Media** | Company website, motion, themes, and inquiries | [Project details](#03--iris-tech--media--brand--digital-experience) |
-| **KidGenius AI** | AI learning experiences for children ages 7–16 | [Code](https://github.com/IFVERSE/kidgenius-ai) · [Demo](https://youtube.com/watch?v=O1fbhOQ9VF8) |
-| **AI Career Coach** | Career tools for African professionals | [Code](https://github.com/IFVERSE/ai-career-coach) · [Demo](https://www.youtube.com/watch?v=uHeGzcgr7Hg) |
-| **AI Log Analyzer** | Log uploads, structured analysis, and follow-up chat | [Code](https://github.com/IFVERSE/ai-log-analyzer) · [Demo](https://www.youtube.com/watch?v=PntYGfICz-g) |
-| **Nexus Trade AI** | Market research, trade journaling, and AI insights | [Code](https://github.com/IFVERSE/nexus-trade-ai) · [Demo](https://youtube.com/watch?v=k5pmdMPSE_g) |
-| **NEXUSTEM** | STEM initiative with a beta community | [Community overview](#nexustem) |
+<br/><br/>
 
-## Selected work
+<img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
-> Recent work across commerce, discovery, and digital brand experiences.
+<br/><br/>
 
-### 01 / Dercy Tech · Gadget commerce & consultation
+A gadget storefront unifying product discovery, expert consultation, and WhatsApp ordering into one seamless experience.
 
-<img src="https://img.shields.io/badge/COMMERCE-7C3AED?style=flat-square" alt="Commerce project" /> <img src="https://img.shields.io/badge/Next.js-15-18181B?style=flat-square&amp;logo=nextdotjs" alt="Next.js 15" /> <img src="https://img.shields.io/badge/Supabase-PostgreSQL-0F766E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase and PostgreSQL" />
+- 🔍 **Discover** — searchable catalog, category browsing, full specifications, and related product suggestions
+- 🤔 **Decide** — consultation requests matched to customer purpose, budget, and gadget needs
+- 💬 **Connect** — pre-filled WhatsApp ordering with direct sales conversation handoff
+- 📱 **Experience** — fully responsive layouts built around the Dercy Tech visual brand
 
-A gadget storefront that brings product discovery, buying advice, and WhatsApp ordering into one experience.
+</td></tr>
+</table>
 
-- **Discover:** searchable product catalog, category browsing, specifications, and related products.
-- **Decide:** consultation requests organized around a customer's purpose, budget, and gadget needs.
-- **Connect:** prefilled WhatsApp ordering and a consultation fallback for direct sales conversations.
-- **Experience:** responsive layouts and a visual system shaped around the Dercy Tech brand.
+<br/>
 
-**Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS 3 · Supabase · PostgreSQL · Framer Motion · Radix UI · Lucide · Zod  
-**Quality tooling:** Playwright · TypeScript checks · Node.js catalog tests
+<!-- ═══ PETSQUARE ════════════════════════════════════════════════ -->
 
-**Engineering focus:** connecting product discovery to consultation and ordering, with Supabase-backed lead capture and a direct WhatsApp handoff.
+<table width="100%">
+<tr><td>
 
-[Visit website ↗](https://dercy-tech.vercel.app) &nbsp; · &nbsp; [Explore repository ↗](https://github.com/IFVERSE/dercy-tech)
+### 🐾 PetSquare — Pet Discovery & Deals Platform
+
+<a href="https://petsquare-mu.vercel.app/en">
+  <img src="https://img.shields.io/badge/🌐_LIVE_SITE-petsquare--mu.vercel.app-6D28D9?style=for-the-badge&labelColor=0D1117" alt="PetSquare live site" />
+</a>
+<a href="https://github.com/IFVERSE/petsquare">
+  <img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="PetSquare source code" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase_Auth-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL_RLS-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square" />
+<img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/Apify-1EBED7?style=flat-square" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+
+<br/><br/>
+
+A European pet-care discovery and deals marketplace connecting owners with AI-matched products, vendors, and personalized recommendations.
+
+- 🐶 **Pet owners** — pet profiles, personalized picks, saved items, deals, and price-target tracking
+- 🏪 **Vendors** — business onboarding, deal management, inbox, and analytics dashboard
+- ⚙️ **Operations** — role-based admin, moderation tools, and audit logs
+- 🤖 **AI & Discovery** — Groq-powered assistance, OpenStreetMap discovery, and Apify-cached product data
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- ═══ IRIS ══════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr><td>
+
+### ✨ IRIS Tech & Media — Brand & Digital Experience
+
+<a href="https://iristechandmedia.com/">
+  <img src="https://img.shields.io/badge/🌐_LIVE_SITE-iristechandmedia.com-6D28D9?style=for-the-badge&labelColor=0D1117" alt="IRIS Tech and Media live site" />
+</a>
+<a href="https://github.com/Iris-Edu-Tech/iris-website">
+  <img src="https://img.shields.io/badge/📂_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="IRIS website repository" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=flat-square" />
+
+<br/><br/>
+
+A polished company website presenting digital product design, software engineering, and media production through a responsive, animated experience.
+
+- 🎨 **Brand storytelling** — service sections, delivery process, company info, and portfolio presentations
+- ✨ **Visual detail** — layered product previews, scroll reveals, and coordinated hero transitions
+- 🌗 **Themes** — day, night, and device themes with mobile navigation and reduced-motion support
+- 📨 **Inquiry flow** — validated contact submissions routed through a Next.js server endpoint
+
+</td></tr>
+</table>
 
 ---
 
-### 02 / PetSquare · Pet discovery & deals
-
-<img src="https://img.shields.io/badge/PET_TECH-0F766E?style=flat-square" alt="Pet technology project" /> <img src="https://img.shields.io/badge/Next.js-16-18181B?style=flat-square&amp;logo=nextdotjs" alt="Next.js 16" /> <img src="https://img.shields.io/badge/AI-Groq-7C3AED?style=flat-square" alt="Groq AI integration" />
-
-A pet-care discovery and deals platform for Europe, connecting pet owners with products, vendors, and recommendations matched to their pets.
-
-- **For pet owners:** pet profiles, personalized picks, saved items, product discovery, and price-target tracking.
-- **For vendors:** business onboarding, deal management, analytics, and an inbox.
-- **For operations:** role-based administration, moderation, audit logs, and discovery controls.
-- **Behind the experience:** Groq-powered assistance, OpenStreetMap discovery, and cached product data through Apify.
-
-**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Supabase Auth · PostgreSQL / RLS · Groq · Framer Motion · Leaflet · Apify · Zod  
-**Quality tooling:** Playwright · Node.js tests · PGlite · ESLint · TypeScript checks
-
-**Engineering focus:** coordinating pet-owner, vendor, and admin experiences around shared data, role-based permissions, and discovery pipelines.
-
-[Visit website ↗](https://petsquare-mu.vercel.app) &nbsp; · &nbsp; [Explore repository ↗](https://github.com/IFVERSE/petsquare)
-
----
-
-### 03 / IRIS Tech & Media · Brand & digital experience
-
-<img src="https://img.shields.io/badge/WEB_EXPERIENCE-0891B2?style=flat-square" alt="Brand website project" /> <img src="https://img.shields.io/badge/Next.js-16-18181B?style=flat-square&amp;logo=nextdotjs" alt="Next.js 16" /> <img src="https://img.shields.io/badge/Motion-Interface_Animation-7C3AED?style=flat-square" alt="Motion interface animations" />
-
-A company website presenting digital product design, software engineering, and media production through a responsive, animated experience.
-
-- **Brand storytelling:** service sections, delivery process, company information, and portfolio presentations.
-- **Visual detail:** layered product previews, scroll reveals, and coordinated hero transitions.
-- **Considered interaction:** day, night, and device themes, mobile navigation, and reduced-motion handling.
-- **Inquiry flow:** validated contact submissions forwarded through a Next.js server route, with loading, success, and error feedback.
-
-**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Motion · CSS Modules · REST API integration  
-**Quality tooling:** ESLint · Node.js theme tests
-
-**Engineering focus:** combining expressive motion with reduced-motion handling and a server-mediated inquiry flow. The site showcases external products; those products are separate from this website implementation.
-
-[Repository — access may be required ↗](https://github.com/Iris-Edu-Tech/iris-website)
-
-## AI projects
-
-Experiments and products exploring how AI can support learning, careers, developer workflows, and market research.
+## 🤖 AI Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🧠 KidGenius AI</h3>
-<a href="https://youtube.com/watch?v=O1fbhOQ9VF8"><img width="100%" src="https://img.youtube.com/vi/O1fbhOQ9VF8/hqdefault.jpg" alt="Watch the KidGenius AI product walkthrough" /></a>
-<p><strong>Make learning feel like discovery.</strong></p>
-<p>AI learning for children ages 7–16, with four tutor personalities, voice interaction, visual explanations, personalized quizzes, and educational stories.</p>
-<p><strong>Highlights:</strong> STEM coding challenges, XP progression, a parent dashboard, and speech accent options where supported.</p>
-<p><strong>Stack</strong><br />React · FastAPI · Groq · LLaMA 3.3 · SQLite · Web Speech API</p>
-<p><a href="https://github.com/IFVERSE/kidgenius-ai">Repository ↗</a> &nbsp; · &nbsp; <a href="https://youtube.com/watch?v=O1fbhOQ9VF8">Video demo ↗</a></p>
+
+### 🧠 KidGenius AI
+
+<a href="https://youtube.com/watch?v=O1fbhOQ9VF8">
+  <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch KidGenius AI demo" />
+</a>
+<a href="https://github.com/IFVERSE/kidgenius-ai">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="KidGenius AI source code" />
+</a>
+
+<br/><br/>
+
+<a href="https://youtube.com/watch?v=O1fbhOQ9VF8">
+  <img width="100%" src="https://img.youtube.com/vi/O1fbhOQ9VF8/hqdefault.jpg" alt="Watch KidGenius AI product walkthrough on YouTube" />
+</a>
+
+<br/>
+
+**Make learning feel like discovery.**
+
+AI tutoring for children 7–16 with 4 tutor personalities, voice interaction, visual explanations, personalized quizzes, and educational stories.
+
+**Highlights:** STEM coding challenges · XP progression · parent dashboard · speech accent options
+
+`React` · `FastAPI` · `Groq` · `LLaMA 3.3` · `SQLite` · `Web Speech API`
+
 </td>
 <td width="50%" valign="top">
-<h3>🧭 AI Career Coach</h3>
-<a href="https://www.youtube.com/watch?v=uHeGzcgr7Hg"><img width="100%" src="https://img.youtube.com/vi/uHeGzcgr7Hg/hqdefault.jpg" alt="Watch the AI Career Coach product walkthrough" /></a>
-<p><strong>Turn career questions into next steps.</strong></p>
-<p>Career support designed for African professionals: PDF/TXT CV review, interview practice, skills-gap analysis, and personalized career roadmaps.</p>
-<p><strong>Highlights:</strong> a Remotive-powered remote job board, job-fit analysis, salary negotiation guidance, and application writing tools.</p>
-<p><strong>Stack</strong><br />React · FastAPI · Python · Groq · SQLite · Remotive API</p>
-<p><a href="https://github.com/IFVERSE/ai-career-coach">Repository ↗</a> &nbsp; · &nbsp; <a href="https://www.youtube.com/watch?v=uHeGzcgr7Hg">Video demo ↗</a></p>
+
+### 🧭 AI Career Coach
+
+<a href="https://www.youtube.com/watch?v=uHeGzcgr7Hg">
+  <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch AI Career Coach demo" />
+</a>
+<a href="https://github.com/IFVERSE/ai-career-coach">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Career Coach source code" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.youtube.com/watch?v=uHeGzcgr7Hg">
+  <img width="100%" src="https://img.youtube.com/vi/uHeGzcgr7Hg/hqdefault.jpg" alt="Watch AI Career Coach product walkthrough on YouTube" />
+</a>
+
+<br/>
+
+**Turn career questions into next steps.**
+
+Career support for African professionals: CV review, interview practice, skills-gap analysis, and personalized roadmaps.
+
+**Highlights:** Remotive job board · job-fit scoring · salary negotiation guidance · application writing tools
+
+`React` · `FastAPI` · `Python` · `Groq` · `SQLite` · `Remotive API`
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🔎 AI Log Analyzer</h3>
-<a href="https://www.youtube.com/watch?v=PntYGfICz-g"><img width="100%" src="https://img.youtube.com/vi/PntYGfICz-g/hqdefault.jpg" alt="Watch the AI Log Analyzer product walkthrough" /></a>
-<p><strong>Bring clarity to debugging.</strong></p>
-<p>Upload application logs to receive structured AI analysis with severity levels, possible root causes, recurring patterns, and suggested fixes.</p>
-<p><strong>Highlights:</strong> drag-and-drop uploads, saved analysis history, and follow-up conversations grounded in the uploaded logs.</p>
-<p><strong>Stack</strong><br />React · Vite · Tailwind CSS · FastAPI · Groq / LLaMA 3.3 · SQLite · SQLAlchemy · react-dropzone · Axios</p>
-<p><a href="https://github.com/IFVERSE/ai-log-analyzer">Repository ↗</a> &nbsp; · &nbsp; <a href="https://www.youtube.com/watch?v=PntYGfICz-g">Video demo ↗</a></p>
+
+### 🔎 AI Log Analyzer
+
+<a href="https://www.youtube.com/watch?v=PntYGfICz-g">
+  <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch AI Log Analyzer demo" />
+</a>
+<a href="https://github.com/IFVERSE/ai-log-analyzer">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Log Analyzer source code" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.youtube.com/watch?v=PntYGfICz-g">
+  <img width="100%" src="https://img.youtube.com/vi/PntYGfICz-g/hqdefault.jpg" alt="Watch AI Log Analyzer product walkthrough on YouTube" />
+</a>
+
+<br/>
+
+**Bring clarity to debugging.**
+
+Upload application logs for structured AI analysis — severity levels, root causes, recurring patterns, and fix suggestions. Follow-up chat grounded in your logs.
+
+**Highlights:** Drag-and-drop uploads · saved analysis history · contextual follow-up chat
+
+`React` · `Vite` · `Tailwind CSS` · `FastAPI` · `Groq` · `LLaMA 3.3` · `SQLite`
+
 </td>
 <td width="50%" valign="top">
-<h3>📊 Nexus Trade AI</h3>
-<a href="https://youtube.com/watch?v=k5pmdMPSE_g"><img width="100%" src="https://img.youtube.com/vi/k5pmdMPSE_g/hqdefault.jpg" alt="Watch the Nexus Trade AI product walkthrough" /></a>
-<p><strong>Explore market signals with AI.</strong></p>
-<p>A cryptocurrency research platform combining market dashboards, token discovery, sentiment exploration, and wallet analysis.</p>
-<p><strong>Highlights:</strong> trade journaling, trading-psychology reflection, an AI chat interface, and optional Discord alerts.</p>
-<p><strong>Stack</strong><br />React · FastAPI · Groq / LLaMA 3.3 · DexScreener · CoinGecko · Discord webhooks</p>
-<p><a href="https://github.com/IFVERSE/nexus-trade-ai">Repository ↗</a> &nbsp; · &nbsp; <a href="https://youtube.com/watch?v=k5pmdMPSE_g">Video demo ↗</a></p>
+
+### 📊 Nexus Trade AI
+
+<a href="https://youtube.com/watch?v=k5pmdMPSE_g">
+  <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Nexus Trade AI demo" />
+</a>
+<a href="https://github.com/IFVERSE/nexus-trade-ai">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nexus Trade AI source code" />
+</a>
+
+<br/><br/>
+
+<a href="https://youtube.com/watch?v=k5pmdMPSE_g">
+  <img width="100%" src="https://img.youtube.com/vi/k5pmdMPSE_g/hqdefault.jpg" alt="Watch Nexus Trade AI product walkthrough on YouTube" />
+</a>
+
+<br/>
+
+**Explore market signals with AI.**
+
+Crypto research platform with market dashboards, token discovery, sentiment analysis, wallet analysis, and trade journaling.
+
+**Highlights:** Trading-psychology reflection · AI chat interface · Discord alerts
+
+`React` · `FastAPI` · `Groq` · `LLaMA 3.3` · `DexScreener` · `CoinGecko`
+
 </td>
 </tr>
 </table>
 
-## NEXUSTEM
+---
+
+## 🌱 NEXUSTEM Initiative
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;height=165&amp;color=0:0F172A,60:312E81,100:0F766E&amp;text=NEXUSTEM&amp;fontSize=44&amp;fontColor=FFFFFF&amp;fontAlignY=42&amp;desc=Learn.%20Build.%20Connect.%20Create.&amp;descSize=17&amp;descAlignY=72&amp;animation=fadeIn" alt="NEXUSTEM — Learn. Build. Connect. Create." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=190&color=0:0F172A,30:1E1B4B,60:312E81,100:0F766E&text=NEXUSTEM%20Initiative&fontSize=48&fontColor=FFFFFF&fontAlignY=44&desc=Learn.%20Build.%20Connect.%20Create.&descSize=18&descAlignY=70&animation=fadeIn" alt="NEXUSTEM — Learn, Build, Connect, Create" />
 
-<p><img src="https://img.shields.io/badge/COMMUNITY-BETA-0F766E?style=for-the-badge" alt="NEXUSTEM community: beta" /></p>
+<br/>
 
-**Building a community for Africa's next generation of innovators.**
+<img src="https://img.shields.io/badge/🌱_COMMUNITY-BETA-0F766E?style=for-the-badge" alt="Beta community" />
+&nbsp;
+<img src="https://img.shields.io/badge/📍_Based_In-Abuja%2C_Nigeria-312E81?style=for-the-badge" alt="Based in Abuja, Nigeria" />
+&nbsp;
+<img src="https://img.shields.io/badge/🎯_Mission-STEM_for_Africa-1E1B4B?style=for-the-badge" alt="Mission: STEM for Africa" />
 
 </div>
 
-As founder of the **NEXUSTEM Initiative**, I've started its **beta community** to connect people interested in STEM, practical learning, and building technology with purpose.
+<br/>
 
-The mission is to make room for curiosity, shared learning, and ideas that address real problems in African communities.
+As founder of **NEXUSTEM**, I've launched a **beta community** connecting young Africans who are passionate about AI, coding, robotics, and building technology that addresses real problems in their communities.
 
-| Focus | What we want to encourage |
-| --- | --- |
-| 🧠 AI & coding | Technical confidence through exploration and building |
-| 🤖 Robotics & electronics | Hands-on curiosity and practical engineering |
-| 🛠️ Projects & innovation | Turning ideas into things people can use |
-| 🌍 Community | Connections between learners, builders, and collaborators |
+| 🎯 Focus Area | What We're Cultivating |
+|:---|:---|
+| 🧠 AI & Coding | Technical confidence through exploration and real project-building |
+| 🤖 Robotics & Electronics | Hands-on curiosity and practical engineering skills |
+| 🛠️ Projects & Innovation | Turning ideas into tools people can actually use |
+| 🌍 Community | Connections between learners, builders, and collaborators across Africa |
 
-**Current stage:** beta community started; shaping what comes next with early participants.
-
-<!-- Add the confirmed community platform, technical stack (if applicable), and public join URL here. -->
-[Ask about the beta community ↗](mailto:nicholasayuk1@gmail.com?subject=NEXUSTEM%20Beta%20Community)
-
-## Toolkit
+> **Current stage:** Beta community launched — shaping what comes next with early participants.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,python,fastapi,supabase,postgres,git,docker,figma&amp;perline=6" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, Python, FastAPI, Supabase, PostgreSQL, Git, Docker, and Figma" />
+[🚀 Ask About the Beta Community →](mailto:nicholasayuk1@gmail.com?subject=NEXUSTEM%20Beta%20Community)
 
 </div>
 
-| Area | Technologies I work with |
-| --- | --- |
-| **Interfaces** | Next.js · React · TypeScript · JavaScript · Tailwind CSS · Vite |
-| **Motion & UI** | Framer Motion / Motion · Radix UI · Lucide · CSS Modules |
-| **Backend & data** | Python · FastAPI · Flask · Node.js · Supabase · PostgreSQL · SQLite · SQLAlchemy · MySQL |
-| **AI integration** | Groq · LLaMA · Prompt engineering · Conversational interfaces · Web Speech API |
-| **Discovery & APIs** | REST APIs · OpenStreetMap · Apify · Cheerio · Leaflet · Remotive · Discord webhooks |
-| **Quality & workflow** | Playwright · Node.js tests · Zod · ESLint · Git · GitHub · Docker · Figma · Vercel |
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- VISUAL SKILL ICONS -->
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,fastapi,tailwind,supabase,postgres,sqlite,git,docker,vercel,firebase&perline=7" alt="Core technology icons" />
+
+<br/><br/>
+
+<!-- ── LANGUAGES ──────────────────────────────────────────── -->
+**`⟨ Languages ⟩`**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<!-- ── FRONTEND ──────────────────────────────────────────── -->
+**`⟨ Frontend ⟩`**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<!-- ── BACKEND ──────────────────────────────────────────── -->
+**`⟨ Backend & APIs ⟩`**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+</p>
+
+<!-- ── AI ──────────────────────────────────────────────── -->
+**`⟨ AI & Intelligence ⟩`**
+
+<p>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLaMA_3.3-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-A78BFA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Integrations-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Workflow_Design-4C1D95?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Speech_API-0D1117?style=for-the-badge" />
+</p>
+
+<!-- ── DATABASES ────────────────────────────────────────── -->
+**`⟨ Databases ⟩`**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
+</p>
+
+<!-- ── DEVOPS ───────────────────────────────────────────── -->
+**`⟨ DevOps & Deployment ⟩`**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+</div>
 
 <details>
-<summary><strong>How I approach a build</strong></summary>
+<summary><strong>⚙️ How I Approach a Build</strong></summary>
+<br/>
 
 1. **Understand the person.** Start with the problem and the action the product should make easier.
-2. **Design the journey.** Make the interface readable, responsive, and consistent.
-3. **Connect the system.** Bring the UI, data, authentication, and integrations together.
-4. **Handle the edges.** Give loading, empty, error, and success states the attention they deserve.
-5. **Check and improve.** Use focused checks, feedback, and iteration to improve the experience.
+2. **Design the journey.** Make the interface readable, responsive, and consistent before writing logic.
+3. **Connect the system.** Bring the UI, data, authentication, and integrations together cleanly.
+4. **Handle the edges.** Loading, empty, error, and success states get the same care as the happy path.
+5. **Check and improve.** Focused testing, real feedback, and iteration over polish for its own sake.
 
 </details>
 
-## Connect
+---
 
-I'm open to **remote engineering opportunities**, **product collaborations**, and **conversations about AI, web development, and STEM education**.
+## 🤝 Connect & Collaborate
 
-**Where I can contribute:** React / Next.js applications, Python / FastAPI services, AI integrations, dashboards, commerce experiences, and responsive company websites.
+I'm open to **remote engineering roles**, **product collaborations**, and conversations about **AI, web development, and STEM education for Africa**.
 
-Tell me what you're building, who it's for, and where you need engineering support.
-
-[Browse public repositories](https://github.com/IFVERSE?tab=repositories) &nbsp; · &nbsp; [Watch product walkthroughs](https://www.youtube.com/@IFVERSE) &nbsp; · &nbsp; [Start a conversation](mailto:nicholasayuk1@gmail.com?subject=Engineering%20Opportunity)
+**Where I contribute best:**
+React / Next.js · Python / FastAPI · LLM integrations · dashboards · commerce platforms · company websites · end-to-end product engineering
 
 <div align="center">
 
-<p>
-  <a href="mailto:nicholasayuk1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ayuk Nicholas" /></a>
-  <a href="https://linkedin.com/in/ayuk-nicholas"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="Ayuk Nicholas on LinkedIn" /></a>
-  <a href="https://x.com/africandevplug"><img src="https://img.shields.io/badge/FOLLOW_ON_X-18181B?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow africandevplug on X" /></a>
-  <a href="https://github.com/IFVERSE"><img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore IFVERSE on GitHub" /></a>
-</p>
+<br/>
 
-**“We are not waiting for the future. We are engineering it from Africa.”**
+<a href="mailto:nicholasayuk1@gmail.com?subject=Engineering%20Opportunity">
+  <img src="https://img.shields.io/badge/📧_Start_a_Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ayuk-nicholas">
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@IFVERSE">
+  <img src="https://img.shields.io/badge/🎬_Watch_Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube demos" />
+</a>
+&nbsp;
+<a href="https://github.com/IFVERSE?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_Browse_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+</a>
 
-<sub>Ayuk Nicholas · IFVERSE</sub>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:0B1020,45:312E81,80:7C3AED,100:22D3EE" alt="Purple and cyan wave footer" />
+> ***"We are not waiting for the future. We are engineering it from Africa."***
+>
+> **— Ayuk Nicholas · IFVERSE**
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,15:7C3AED,40:4C1D95,65:1E1057,85:0D0733,100:050B1A" alt="Footer wave" />
 
 </div>
-

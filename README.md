@@ -36,16 +36,14 @@
     <img src="https://img.shields.io/badge/X_%40africandevplug-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @africandevplug on X" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@IFVERSE">
-    <img src="https://img.shields.io/badge/YouTube_%40IFVERSE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch project demos on YouTube" />
+  <a href="https://www.youtube.com/@africanatechman">
+    <img src="https://img.shields.io/badge/YouTube_%40africanatechman-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Africanatechman on YouTube" />
   </a>
   &nbsp;
   <a href="https://github.com/IFVERSE?tab=repositories">
     <img src="https://img.shields.io/badge/All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" />
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=IFVERSE&label=Profile+Views&color=7C3AED&style=for-the-badge&abbreviated=true" alt="Profile view count" />
 
 </div>
 
@@ -365,6 +363,85 @@ Crypto research platform with market dashboards, token discovery, sentiment anal
 
 ---
 
+## 🧩 Prototypes & Architecture
+
+Explore the product journeys and the systems behind two selected projects. These diagrams summarize the current repository implementations.
+
+<details>
+<summary><strong>🛒 Dercy Tech — Commerce Prototype & System Design</strong></summary>
+
+<br/>
+
+**Explore the experience:** [Open the live app](https://dercy-tech.vercel.app/) · [Run the local preview](https://github.com/IFVERSE/dercy-tech#-quick-start)
+
+**Prototype journey:** Browse or search gadgets → inspect a product → request buying advice or continue to WhatsApp ordering. The local preview uses a bundled catalogue when Supabase is not configured, so the browsing experience can be explored before connecting a database.
+
+```mermaid
+flowchart TD
+    Visitor["Customer"] --> UI["Next.js / React storefront"]
+    UI --> Catalog["Catalogue data access"]
+    Catalog --> DB[("Supabase PostgreSQL")]
+    Catalog -. "Preview fallback" .-> Samples["Bundled sample catalogue"]
+    UI --> Form["Consultation form"]
+    Form --> Leads["Supabase: consultation requests / RLS"]
+    UI --> WhatsApp["WhatsApp ordering handoff"]
+    Admin["Admin dashboard"] --> API["Next.js admin API / session and role checks"]
+    API --> Auth["Supabase Auth"]
+    API --> DB
+    API --> Storage["Supabase product-media storage"]
+    classDef surface fill:#1E1057,stroke:#A78BFA,color:#FFFFFF;
+    classDef service fill:#0D1117,stroke:#06B6D4,color:#E2E8F0;
+    class UI,Admin surface;
+    class Catalog,DB,Samples,Form,Leads,WhatsApp,API,Auth,Storage service;
+```
+
+**Design decisions:** Catalogue access lives in a shared data layer; public consultation inserts are scoped by row-level security; admin operations pass through server endpoints that verify the session and role. WhatsApp provides the sales handoff.
+
+**Implementation:** [Catalogue layer](https://github.com/IFVERSE/dercy-tech/blob/main/lib/data.ts) · [Admin boundary](https://github.com/IFVERSE/dercy-tech/blob/main/lib/admin-server.ts) · [Database schema](https://github.com/IFVERSE/dercy-tech/blob/main/supabase/schema.sql)
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>🔎 AI Log Analyzer — Prototype Walkthrough & AI Pipeline</strong></summary>
+
+<br/>
+
+**Explore the experience:** [Watch the working demo](https://www.youtube.com/watch?v=PntYGfICz-g) · [Run the prototype locally](https://github.com/IFVERSE/ai-log-analyzer#running-the-app)
+
+**Prototype journey:** Upload a log file → review severity, root causes, patterns, and suggested fixes → ask a follow-up question → revisit a saved analysis from History.
+
+```mermaid
+flowchart TD
+    Developer["Developer / log file"] --> UI["React / Vite interface"]
+    UI --> Analyze["FastAPI: POST /api/analyze"]
+    Analyze --> Decode["Decode file / reject empty input"]
+    Decode --> AI["Groq / LLaMA 3.3"]
+    AI --> Results["Structured analysis"]
+    Results --> DB[("SQLite via SQLAlchemy")]
+    Analyze --> UI
+    UI --> History["FastAPI: GET /api/history and /api/history/id"]
+    History --> DB
+    UI --> Chat["FastAPI: POST /api/chat/id"]
+    DB --> Context["Saved raw log context"]
+    Context --> Chat
+    Chat --> AI
+    Chat --> UI
+    classDef surface fill:#1E1057,stroke:#A78BFA,color:#FFFFFF;
+    classDef service fill:#0D1117,stroke:#06B6D4,color:#E2E8F0;
+    class UI surface;
+    class Analyze,Decode,AI,Results,DB,History,Chat,Context service;
+```
+
+**Design decisions:** The FastAPI backend owns the AI calls and database writes. Saved sessions store the filename, raw logs, and serialized analysis; follow-up questions retrieve the saved log context. Separate upload, results, chat, and history components keep the interface focused on each step.
+
+**Implementation:** [API routes](https://github.com/IFVERSE/ai-log-analyzer/blob/main/backend/main.py) · [Database models](https://github.com/IFVERSE/ai-log-analyzer/blob/main/backend/database.py) · [Interface components](https://github.com/IFVERSE/ai-log-analyzer/tree/main/frontend/src/components)
+
+</details>
+
+---
+
 ## 🌱 NEXUSTEM Initiative
 
 <div align="center">
@@ -526,7 +603,7 @@ React / Next.js · Python / FastAPI · LLM integrations · dashboards · commerc
   <img src="https://img.shields.io/badge/%F0%9F%92%BC_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://www.youtube.com/@IFVERSE">
+<a href="https://www.youtube.com/@africanatechman">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AC_Watch_Demos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube demos" />
 </a>
 &nbsp;
